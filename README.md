@@ -1,4 +1,7 @@
-SampleCourse-Week
-===
+# Bilgi Felsefesi 
+## Temel Kavramlar 
 
-Sample course with weekly notes format
+    function test()
+    {
+    	this    }
+   
